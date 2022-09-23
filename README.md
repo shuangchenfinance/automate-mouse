@@ -23,9 +23,4 @@ path and that ESG score is the first information the user wants to check.
 and the first stock you want to download is at the top of the stock list.
 
 During running the code:
-1. check the program regularly because the screen can be disrupted by pop-up emails, news, etc.
-2. this code is designed for stocks with an ESG score history longer than 5 years.
-For some stocks, the ESG score history is too short and the code may not capture it properly.
-The only consequence is that ESG scores for these stocks are not downloaded at all. 
-Because it's difficult to evaluate the length of ESG score history ex-ante,
-I recommend adjusting the code and downloading again for these stocks ex-post.
+check the program regularly because the screen can be disrupted by pop-up emails, news, etc.
